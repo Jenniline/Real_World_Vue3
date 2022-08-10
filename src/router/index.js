@@ -1,6 +1,6 @@
 import { createRouter, createWebHashHistory } from "vue-router";
 import EventList from "../views/EventList.vue";
-import About from "../views/AboutView.vue";
+import AboutView from "../views/AboutView.vue";
 
 
 const routes = [
